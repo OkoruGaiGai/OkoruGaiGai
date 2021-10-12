@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("蓋蓋討厭香菇\n");
+    printf("蓋蓋\n");
 }
