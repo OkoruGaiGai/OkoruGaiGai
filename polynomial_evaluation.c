@@ -13,14 +13,14 @@ double power(double x, int q) {
         //this line should do some operation to achieve multiplications
         //only ONE line to be ADD
         //please refer to page 6 of Operation slides to get some idea
+        m *=x;
     }
     return m;
-    m *=x;
 }
 
 int main() {
     //prompt user to type in x and y
-    printf("½Ğ¿é¤J¯BÂI¼Æxªº­È¥H¤Î¦h¶µ¦¡§t¦³ªº¶µ¼Æ¥¿¾ã¼Æy¡J");
+    printf("è«‹è¼¸å…¥æµ®é»æ•¸xçš„å€¼ä»¥åŠå¤šé …å¼å«æœ‰çš„é …æ•¸æ­£æ•´æ•¸yï¸°");
 
     //variable declaration
     double x;
